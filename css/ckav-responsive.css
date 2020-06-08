@@ -79,7 +79,7 @@ INDEX
 =============================================*/
 @media (min-width: 200px) and (max-width: 991px) {
   .ckav-header {
-    background-color: #1F2229 !important;
+    background-color: #dde7ff !important;
   }
   .header-logo-link img {
     max-width: 60px;
@@ -13686,7 +13686,7 @@ INDEX
     display: flex;
     margin: 0;
     width: 100%;
-    bottom: 40px;
+    bottom: 0px;
     background-color: #191919;
     padding: 10px;
   }
